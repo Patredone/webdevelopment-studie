@@ -20,8 +20,8 @@ Welkom bij mijn persoonlijke leerrepository. Hier bewaar ik alles wat ik leer ov
 | Nr. | Onderwerp | Status | Uren |
 |:---|:---|:---|:---|
 | 00 | Git & GitHub | Afgerond | - |
-| 01 | HTML | Gepland | - |
-| 02 | CSS | Gepland | - |
+| 01 | HTML | Afgerond | - |
+| 02 | CSS | Afgerond | - |
 | 03 | JavaScript (basis) | Gepland | 40 |
 | 04 | JavaScript (asynchroon) | Gepland | 25 |
 | 05 | React | Gepland | 190 |
